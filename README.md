@@ -71,10 +71,10 @@ My strongest signal is not just model building, but structuring messy questions,
 - Keep outputs reproducible, scannable, and decision-ready
 - Optimize for signal: what problem matters, what method fits, what action follows
 
-## Activity Graph
+## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isjiajia01&theme=github-dark&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://raw.githubusercontent.com/isjiajia01/isjiajia01/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ## Links
