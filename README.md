@@ -27,8 +27,8 @@ My core strength is taking a real operational problem, structuring it into somet
 ## What I Build
 
 - Optimization models for operational planning and resource allocation
-- Rolling-horizon and simulation-based decision workflows
-- Data products and analytical tools for mobility and real-world systems
+- Rolling-horizon decision workflows for logistics and delivery systems
+- Research-to-implementation work that connects thesis methods to usable tools
 - Product-grade software that makes technical work usable
 
 ## Selected Projects
@@ -36,9 +36,9 @@ My core strength is taking a real operational problem, structuring it into somet
 <table>
   <tr>
     <td width="33%">
-      <h3>cph-robust-transfers</h3>
-      <p>Mobility resilience atlas and constrained decision-support prototype for Greater Copenhagen.</p>
-      <p><a href="https://github.com/isjiajia01/cph-robust-transfers">Repository</a></p>
+      <h3>DTU Thesis Workspace</h3>
+      <p>Rolling-horizon last-mile delivery optimization research spanning manuscript, retained controller line, and integrated fresh-solver work.</p>
+      <p><a href="https://github.com/isjiajia01/dtu-thesis-workspace">Repository</a></p>
     </td>
     <td width="33%">
       <h3>job-ops</h3>
