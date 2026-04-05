@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1D4ED8,70:16A34A,100:F59E0B&height=240&section=header&text=Jiajia%20Zhang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Operations%20Research%20%7C%20Optimization%20%7C%20Decision%20Analytics&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1D4ED8,70:16A34A,100:F59E0B&height=240&section=header&text=Jiajia%20Zhang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Operations%20Research%20%7C%20Optimization%20%7C%20Decision%20Systems&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&duration=3200&pause=900&center=true&vCenter=true&width=840&lines=Building+decision-oriented+analytics;Turning+messy+questions+into+clear+actions;Optimization%2C+simulation%2C+and+reproducible+workflows)](https://github.com/isjiajia01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&duration=3200&pause=900&center=true&vCenter=true&width=840&lines=Turning+messy+operations+into+clear+decisions;Building+optimization%2C+analytics%2C+and+decision+tools;Research-minded%2C+product-capable%2C+execution-focused)](https://github.com/isjiajia01)
 
 <a href="mailto:isjiajiazhang@gmail.com"><img src="https://img.shields.io/badge/Email-isjiajiazhang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://isjiajia01.github.io"><img src="https://img.shields.io/badge/Website-isjiajia01.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
+<a href="https://zhangjiajia.me"><img src="https://img.shields.io/badge/Website-zhangjiajia.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/isjiajia01"><img src="https://img.shields.io/badge/GitHub-isjiajia01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=isjiajia01&style=for-the-badge&color=1d4ed8" alt="Profile views" />
 
@@ -13,78 +13,70 @@
 
 ## About Me
 
-I focus on operations research, optimization, analytics, and decision support for real operational problems.
+I work at the intersection of **operations research, optimization, analytics, and decision support**.
 
-My strongest signal is not just model building, but structuring messy questions, choosing the right analytical method, and explaining results in a way a team can act on.
+My core strength is taking a real operational problem, structuring it into something tractable, choosing the right modeling or engineering approach, and turning the result into something a team can actually use.
 
 | Area | Direction |
 | --- | --- |
 | Base | Copenhagen, Denmark |
-| Roles | Analyst, optimization, and decision-focused data roles |
-| Working Languages | English / Chinese |
+| Focus | Optimization, mobility, logistics, and decision systems |
+| Working languages | English / Chinese |
 | Style | Practical, decision-oriented, low-noise execution |
 
-## Focus
+## What I Build
 
-- Optimization modeling for operational decisions
-- Simulation and scenario analysis under uncertainty
-- Python and SQL workflows for reproducible analysis
-- Translating technical work into clear decision support
+- Optimization models for operational planning and resource allocation
+- Rolling-horizon and simulation-based decision workflows
+- Data products and analytical tools for mobility and real-world systems
+- Product-grade software that makes technical work usable
 
-## Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,r,git,github,vscode" alt="skills" />
-  <br />
-  <img src="https://img.shields.io/badge/OR--Tools-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="OR-Tools" />
-  <img src="https://img.shields.io/badge/Pyomo-1F4B99?style=for-the-badge&logo=python&logoColor=white" alt="Pyomo" />
-  <img src="https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logoColor=white" alt="Gurobi" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</div>
-
-## Featured Projects
+## Selected Projects
 
 <table>
   <tr>
     <td width="33%">
-      <h3>Personal Website</h3>
-      <p>Minimal personal site for job-search use, focused on positioning, proof, and contact.</p>
-      <p><a href="https://github.com/isjiajia01/isjiajia01.github.io">Repository</a> · <a href="https://isjiajia01.github.io">Live Site</a></p>
+      <h3>cph-robust-transfers</h3>
+      <p>Mobility resilience atlas and constrained decision-support prototype for Greater Copenhagen.</p>
+      <p><a href="https://github.com/isjiajia01/cph-robust-transfers">Repository</a></p>
     </td>
     <td width="33%">
-      <h3>iOS Portfolio</h3>
-      <p>Showcase of projects built across iOS apps, product experiments, and optimization-oriented work.</p>
-      <p><a href="https://github.com/isjiajia01/ios-portfolio">Repository</a></p>
+      <h3>job-ops</h3>
+      <p>Self-hosted job-search operations system for discovery, scoring, tailoring, and tracking.</p>
+      <p><a href="https://github.com/isjiajia01/job-ops">Repository</a></p>
     </td>
     <td width="33%">
-      <h3>sub2api</h3>
-      <p>Open-source relay service work around shared AI subscriptions, API access, and operational tooling.</p>
-      <p><a href="https://github.com/isjiajia01/sub2api">Repository</a></p>
+      <h3>Nu</h3>
+      <p>Native SwiftUI transit app portfolio project focused on real commuter workflows.</p>
+      <p><a href="https://github.com/isjiajia01/Nu">Repository</a></p>
     </td>
   </tr>
 </table>
 
-## Working Principles
-
-- Prefer simple, defensible analytical choices over decorative complexity
-- Keep outputs reproducible, scannable, and decision-ready
-- Optimize for signal: what problem matters, what method fits, what action follows
-
-## Contribution Graph
+## Toolbox
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/isjiajia01/isjiajia01/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://skillicons.dev/icons?i=python,swift,postgres,mysql,r,git,github,vscode" alt="skills" />
+  <br />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
+  <img src="https://img.shields.io/badge/OR--Tools-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="OR-Tools" />
+  <img src="https://img.shields.io/badge/Pyomo-1F4B99?style=for-the-badge&logo=python&logoColor=white" alt="Pyomo" />
+  <img src="https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logoColor=white" alt="Gurobi" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
+
+## Working Principles
+
+- Prefer simple, defensible modeling choices over decorative complexity
+- Keep outputs reproducible, inspectable, and decision-ready
+- Connect research depth with practical implementation
 
 ## Links
 
-- Personal site: https://isjiajia01.github.io
+- Personal site: https://zhangjiajia.me
 - GitHub: https://github.com/isjiajia01
 - Contact: isjiajiazhang@gmail.com
 
 <div align="center">
-  <sub>ReadmeForge-inspired layout, rebuilt for a stable and maintainable GitHub profile.</sub>
-  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:16A34A,70:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
 </div>
