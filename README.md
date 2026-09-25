@@ -1,82 +1,47 @@
-<div align="center">
+# Jiajia Zhang
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1D4ED8,70:16A34A,100:F59E0B&height=240&section=header&text=Jiajia%20Zhang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Operations%20Research%20%7C%20Optimization%20%7C%20Decision%20Systems&descAlignY=58&descSize=18" width="100%" alt="header" />
+Operations Research · Optimization · Decision Systems  
+MSc Mathematical Modelling & Computation, DTU · Copenhagen
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&duration=3200&pause=900&center=true&vCenter=true&width=840&lines=Turning+messy+operations+into+clear+decisions;Building+optimization%2C+analytics%2C+and+decision+tools;Research-minded%2C+product-capable%2C+execution-focused)](https://github.com/isjiajia01)
+[Website](https://zhangjiajia.me) · [Email](mailto:isjiajiazhang@gmail.com) · [GitHub](https://github.com/isjiajia01)
 
-<a href="mailto:isjiajiazhang@gmail.com"><img src="https://img.shields.io/badge/Email-isjiajiazhang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://zhangjiajia.me"><img src="https://img.shields.io/badge/Website-zhangjiajia.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/isjiajia01"><img src="https://img.shields.io/badge/GitHub-isjiajia01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=isjiajia01&style=for-the-badge&color=1d4ed8" alt="Profile views" />
+## About
 
-</div>
+I work at the intersection of operations research, optimization, and decision-support systems. My core focus is taking complex operational problems, structuring them into tractable models, and engineering software so teams can act on the results. Working languages: English and Chinese.
 
-## About Me
+## Focus
 
-I work at the intersection of **operations research, optimization, analytics, and decision support**.
+- Constrained optimization modeling for operational planning and resource allocation
+- Rolling-horizon decision workflows for logistics and dynamic environments
+- Internal tools and decision-support systems with clear evidence and human review
+- Product-grade software and reproducible workflows that bridge research and practice
 
-My core strength is taking a real operational problem, structuring it into something tractable, choosing the right modeling or engineering approach, and turning the result into something a team can actually use.
+## Selected Work
 
-| Area | Direction |
-| --- | --- |
-| Base | Copenhagen, Denmark |
-| Focus | Optimization, mobility, logistics, and decision systems |
-| Working languages | English / Chinese |
-| Style | Practical, decision-oriented, low-noise execution |
+- **[DTU Thesis Workspace](https://github.com/isjiajia01/dtu-thesis-workspace)**  
+  Rolling-horizon last-mile delivery optimization research spanning manuscript, retained controller, and integrated solver.  
+  `Python` · `Optimization` · `Simulation` · `Logistics`
 
-## What I Build
+- **[job-ops](https://github.com/isjiajia01/job-ops)**  
+  Self-hosted operations system for job discovery, scoring, profile-driven tailoring, and tracking.  
+  `Python` · `FastAPI` · `Workflow Automation` · `PostgreSQL`
 
-- Optimization models for operational planning and resource allocation
-- Rolling-horizon decision workflows for logistics and delivery systems
-- Research-to-implementation work that connects thesis methods to usable tools
-- Product-grade software that makes technical work usable
+- **[Nu](https://github.com/isjiajia01/Nu)**  
+  Native iOS transit app focused on Copenhagen commuter workflows, real-time departures, and journey exploration.  
+  `Swift` · `SwiftUI` · `Transit APIs` · `iOS`
 
-## Selected Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>DTU Thesis Workspace</h3>
-      <p>Rolling-horizon last-mile delivery optimization research spanning manuscript, retained controller line, and integrated fresh-solver work.</p>
-      <p><a href="https://github.com/isjiajia01/dtu-thesis-workspace">Repository</a></p>
-    </td>
-    <td width="33%">
-      <h3>job-ops</h3>
-      <p>Self-hosted job-search operations system for discovery, scoring, tailoring, and tracking.</p>
-      <p><a href="https://github.com/isjiajia01/job-ops">Repository</a></p>
-    </td>
-    <td width="33%">
-      <h3>Nu</h3>
-      <p>Native SwiftUI transit app portfolio project focused on real commuter workflows.</p>
-      <p><a href="https://github.com/isjiajia01/Nu">Repository</a></p>
-    </td>
-  </tr>
-</table>
+- **[Personal Website](https://zhangjiajia.me)** · [Repository](https://github.com/isjiajia01/personal-website)  
+  Bilingual portfolio and writing platform covering decision systems, engineering, and product experiments.  
+  `Next.js` · `TypeScript` · `Tailwind CSS`
 
 ## Toolbox
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,swift,postgres,mysql,r,git,github,vscode" alt="skills" />
-  <br />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
-  <img src="https://img.shields.io/badge/OR--Tools-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="OR-Tools" />
-  <img src="https://img.shields.io/badge/Pyomo-1F4B99?style=for-the-badge&logo=python&logoColor=white" alt="Pyomo" />
-  <img src="https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logoColor=white" alt="Gurobi" />
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</div>
+- **Modelling & Optimization** — Python, Julia, Gurobi, OR-Tools, Pyomo, R
+- **Engineering & Systems** — FastAPI, Next.js, TypeScript, PostgreSQL, Docker, Git
+- **Product & Spatial** — SwiftUI, MapLibre / GIS, public transit & GTFS data
 
-## Working Principles
+## Principles
 
-- Prefer simple, defensible modeling choices over decorative complexity
-- Keep outputs reproducible, inspectable, and decision-ready
-- Connect research depth with practical implementation
-
-## Links
-
-- Personal site: https://zhangjiajia.me
-- GitHub: https://github.com/isjiajia01
-- Contact: isjiajiazhang@gmail.com
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:16A34A,70:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
-</div>
+1. Prefer simple, defensible analytical choices over decorative complexity.
+2. Keep outputs reproducible, inspectable, and decision-ready.
+3. Optimize for action: clarify the problem, choose the right method, and deliver usable tooling.
