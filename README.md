@@ -19,19 +19,19 @@ I work at the intersection of operations research, optimization, and decision-su
 ## Selected Work
 
 - **[DTU Thesis Workspace](https://github.com/isjiajia01/dtu-thesis-workspace)**  
-  Rolling-horizon last-mile delivery optimization research spanning manuscript, retained controller, and integrated solver.  
-  `Python` · `Optimization` · `Simulation` · `Logistics`
+  Last-mile delivery in Copenhagen is fragmented: dozens of operators, overlapping zones, no unified planning layer. I modeled the routing problem as a constrained optimization program and built a rolling-horizon controller that re-solves at each decision point as new orders arrive—keeping routes feasible under real-time demand uncertainty. The workspace spans manuscript, retained controller, and integrated solver with reproducible experiment pipelines.  
+  `Python` · `Julia` · `Optimization` · `Simulation` · `Logistics`
 
 - **[job-ops](https://github.com/isjiajia01/job-ops)**  
-  Self-hosted operations system for job discovery, scoring, profile-driven tailoring, and tracking.  
-  `Python` · `FastAPI` · `Workflow Automation` · `PostgreSQL`
+  The standard job search is a manual, high-noise process: scan boards, read JDs, guess fit, write cover letters from scratch. I built a self-hosted system that automates the entire pipeline—pulling listings from multiple sources, scoring each role against a structured profile with an LLM, generating tailored resume and cover letter drafts, and tracking application status end-to-end. Deployed on Oracle Cloud with a Postgres backend and RxResume PDF export.  
+  `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `Workflow Automation`
 
 - **[Nu](https://github.com/isjiajia01/Nu)**  
-  Native iOS transit app focused on Copenhagen commuter workflows, real-time departures, and journey exploration.  
-  `Swift` · `SwiftUI` · `Transit APIs` · `iOS`
+  Transit riders in Copenhagen juggle multiple apps to plan a journey: one for departures, one for maps, one for real-time vehicles. Nu consolidates this into a single native iOS experience—nearby stations, live departure boards, journey step-by-step detail, map exploration, walking ETAs, and vehicle tracking—built entirely in SwiftUI with direct integration to public transit APIs.  
+  `Swift` · `SwiftUI` · `MapKit` · `Transit APIs` · `iOS`
 
 - **[Personal Website](https://zhangjiajia.me)** · [Repository](https://github.com/isjiajia01/personal-website)  
-  Bilingual portfolio and writing platform covering decision systems, engineering, and product experiments.  
+  Bilingual portfolio and writing platform covering decision systems, engineering, and product experiments. Built with Next.js, deployed via GitHub Actions to Oracle Cloud Infrastructure.  
   `Next.js` · `TypeScript` · `Tailwind CSS`
 
 ## Toolbox
