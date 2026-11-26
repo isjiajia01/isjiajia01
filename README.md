@@ -1,13 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jiajia Zhang. I build internal tools and workflow systems with clear evidence, human review, and practical decision support." src="assets/header-light.svg" width="100%">
+  <img alt="Jiajia Zhang" src="assets/header-light.svg" width="100%">
 </picture>
+
+**I build internal tools and workflow systems with clear evidence, human review, and practical decision support.**
 
 A Copenhagen-based DTU MSc Engineering graduate in Mathematical Modelling and Computation, building practical systems for complex operational work. My strongest work sits around internal tools, workflow automation with human review, data-quality workflows, and decision-support systems.
 
 On the side I design and ship small Apple apps, alone, end to end.
 
-<img src="assets/icons/globe.svg" width="22" height="22" align="absmiddle" alt=""> [me.isjia.page](https://me.isjia.page) &nbsp;&nbsp; <img src="assets/icons/smartphone.svg" width="22" height="22" align="absmiddle" alt=""> [app.isjia.page](https://app.isjia.page) &nbsp;&nbsp; <img src="assets/icons/map-pin.svg" width="22" height="22" align="absmiddle" alt=""> Copenhagen &nbsp;&nbsp; <img src="assets/icons/languages.svg" width="22" height="22" align="absmiddle" alt=""> English · 中文
+<img src="assets/icons/globe.svg" width="22" height="22" align="absmiddle" alt="">&nbsp;[me.isjia.page](https://me.isjia.page) &nbsp;&nbsp; <img src="assets/icons/smartphone.svg" width="22" height="22" align="absmiddle" alt="">&nbsp;[app.isjia.page](https://app.isjia.page)<br>
+<img src="assets/icons/map-pin.svg" width="22" height="22" align="absmiddle" alt="">&nbsp;Copenhagen &nbsp;&nbsp; <img src="assets/icons/languages.svg" width="22" height="22" align="absmiddle" alt="">&nbsp;English · 中文
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-work-dark.svg"><img alt="Selected work" src="assets/heading-work-light.svg" height="40"></picture>
 
