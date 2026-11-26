@@ -7,18 +7,18 @@ I work where **optimization meets software**: vehicle routing, rolling-horizon p
 
 On the side I build native iOS apps and small graphics experiments in WebGL.
 
-<sub>📍 Copenhagen &nbsp;·&nbsp; 🌐 [me.isjia.page](https://me.isjia.page) &nbsp;·&nbsp; 📱 [app.isjia.page](https://app.isjia.page) &nbsp;·&nbsp; 🗣️ English · 中文</sub>
+<img src="assets/icons/map-pin.svg" width="22" height="22" align="absmiddle" alt=""> Copenhagen &nbsp;&nbsp; <img src="assets/icons/globe.svg" width="22" height="22" align="absmiddle" alt=""> [me.isjia.page](https://me.isjia.page) &nbsp;&nbsp; <img src="assets/icons/smartphone.svg" width="22" height="22" align="absmiddle" alt=""> [app.isjia.page](https://app.isjia.page) &nbsp;&nbsp; <img src="assets/icons/languages.svg" width="22" height="22" align="absmiddle" alt=""> English · 中文
 
 ### Selected work
 
 | | Project | What it does |
 |:-:|---|---|
-| 🚚 | **[dtu-thesis-workspace](https://github.com/isjiajia01/dtu-thesis-workspace)** | Rolling-horizon last-mile delivery optimization. Manuscript, controller and solver in one reproducible workspace. <br><sub>`Julia` `Python` `LaTeX`</sub> |
-| 🧭 | **[jobradar-relate](https://github.com/isjiajia01/jobradar-relate)** | Explainable job recommendations on a knowledge graph. Built for the Relate by Neo4j hackathon. <br><sub>`Python` `Neo4j`</sub> |
-| 📨 | **[job-ops](https://github.com/isjiajia01/job-ops)** | Self-hosted job-search pipeline for the Danish/EU market: LLM fit scoring, resume tailoring, cover letters, application tracking. <br><sub>`TypeScript` `Docker` `OCI`</sub> |
-| 🚇 | **[Nu](https://github.com/isjiajia01/Nu)** | Native iOS transit app for Copenhagen: departure boards, journey planner, walking ETA, live vehicle tracking. <br><sub>`Swift` `SwiftUI`</sub> |
-| 🎨 | **[ascii-studio](https://github.com/isjiajia01/ascii-studio)** | Browser-only image and video → ASCII, braille, halftone and dither generator. <br><sub>`TypeScript` `WebGL2`</sub> |
-| 🖌️ | **[painterly-sky](https://github.com/isjiajia01/painterly-sky)** | Procedural painted-gradient backgrounds (Kuwahara filter + brush dabs). Zero dependencies. <br><sub>`TypeScript` `WebGL2`</sub> |
+| <img src="assets/icons/truck.svg" width="34" height="34" alt=""> | **[dtu-thesis-workspace](https://github.com/isjiajia01/dtu-thesis-workspace)** | Rolling-horizon last-mile delivery optimization. Manuscript, controller and solver in one reproducible workspace. <br><sub>`Julia` `Python` `LaTeX`</sub> |
+| <img src="assets/icons/compass.svg" width="34" height="34" alt=""> | **[jobradar-relate](https://github.com/isjiajia01/jobradar-relate)** | Explainable job recommendations on a knowledge graph. Built for the Relate by Neo4j hackathon. <br><sub>`Python` `Neo4j`</sub> |
+| <img src="assets/icons/mail.svg" width="34" height="34" alt=""> | **[job-ops](https://github.com/isjiajia01/job-ops)** | Self-hosted job-search pipeline for the Danish/EU market: LLM fit scoring, resume tailoring, cover letters, application tracking. <br><sub>`TypeScript` `Docker` `OCI`</sub> |
+| <img src="assets/icons/subway.svg" width="34" height="34" alt=""> | **[Nu](https://github.com/isjiajia01/Nu)** | Native iOS transit app for Copenhagen: departure boards, journey planner, walking ETA, live vehicle tracking. <br><sub>`Swift` `SwiftUI`</sub> |
+| <img src="assets/icons/palette.svg" width="34" height="34" alt=""> | **[ascii-studio](https://github.com/isjiajia01/ascii-studio)** | Browser-only image and video → ASCII, braille, halftone and dither generator. <br><sub>`TypeScript` `WebGL2`</sub> |
+| <img src="assets/icons/paintbrush.svg" width="34" height="34" alt=""> | **[painterly-sky](https://github.com/isjiajia01/painterly-sky)** | Procedural painted-gradient backgrounds (Kuwahara filter + brush dabs). Zero dependencies. <br><sub>`TypeScript` `WebGL2`</sub> |
 
 <details>
 <summary><b>More experiments & tooling</b></summary>
