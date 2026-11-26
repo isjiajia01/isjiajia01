@@ -9,7 +9,7 @@ On the side I build native iOS apps and small graphics experiments in WebGL.
 
 <img src="assets/icons/map-pin.svg" width="22" height="22" align="absmiddle" alt=""> Copenhagen &nbsp;&nbsp; <img src="assets/icons/globe.svg" width="22" height="22" align="absmiddle" alt=""> [me.isjia.page](https://me.isjia.page) &nbsp;&nbsp; <img src="assets/icons/smartphone.svg" width="22" height="22" align="absmiddle" alt=""> [app.isjia.page](https://app.isjia.page) &nbsp;&nbsp; <img src="assets/icons/languages.svg" width="22" height="22" align="absmiddle" alt=""> English · 中文
 
-### Selected work
+### <img src="assets/icons/folder-open.svg" width="26" height="26" align="absmiddle" alt=""> Selected work
 
 | | Project | What it does |
 |:-:|---|---|
@@ -21,7 +21,7 @@ On the side I build native iOS apps and small graphics experiments in WebGL.
 | <img src="assets/icons/paintbrush.svg" width="34" height="34" alt=""> | **[painterly-sky](https://github.com/isjiajia01/painterly-sky)** | Procedural painted-gradient backgrounds (Kuwahara filter + brush dabs). Zero dependencies. <br><sub>`TypeScript` `WebGL2`</sub> |
 
 <details>
-<summary><b>More experiments & tooling</b></summary>
+<summary><img src="assets/icons/flask.svg" width="22" height="22" align="absmiddle" alt=""> <b>More experiments & tooling</b></summary>
 <br>
 
 - [canopy-dotmatrix](https://github.com/isjiajia01/canopy-dotmatrix): reverse-engineered decoder and renderer for a 6-bit temporal-delta dot-matrix video format
@@ -32,13 +32,13 @@ On the side I build native iOS apps and small graphics experiments in WebGL.
 
 </details>
 
-### Toolbox
+### <img src="assets/icons/toolbox.svg" width="26" height="26" align="absmiddle" alt=""> Toolbox
 
 **Modelling** &nbsp; `optimization modelling` `vehicle routing` `rolling-horizon planning` `decision support`<br>
 **Languages** &nbsp; `Python` `Julia` `TypeScript` `Swift`<br>
 **Building** &nbsp; `SwiftUI` `Next.js` `WebGL2` `Docker` `GitHub Actions` `Oracle Cloud`
 
-### Contributions
+### <img src="assets/icons/calendar-days.svg" width="26" height="26" align="absmiddle" alt=""> Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isjiajia01/isjiajia01/output/github-contribution-grid-snake-dark.svg">
