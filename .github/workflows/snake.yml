@@ -10,6 +10,10 @@ permissions:
 
 jobs:
   build:
+    # This file is mirrored in the private github-profile repo. Only run it in
+    # the public profile repo, where Actions minutes are free and the README
+    # can load the generated SVGs from the `output` branch.
+    if: github.repository == 'isjiajia01/isjiajia01'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
