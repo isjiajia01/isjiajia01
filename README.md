@@ -7,7 +7,7 @@ I work where **optimization meets software**: vehicle routing, rolling-horizon p
 
 On the side I build native iOS apps and small graphics experiments in WebGL.
 
-<sub>📍 Copenhagen &nbsp;·&nbsp; 🌐 [zhangjiajia.me](https://zhangjiajia.me) &nbsp;·&nbsp; 🗣️ English · 中文</sub>
+<sub>📍 Copenhagen &nbsp;·&nbsp; 🌐 [me.isjia.page](https://me.isjia.page) &nbsp;·&nbsp; 📱 [app.isjia.page](https://app.isjia.page) &nbsp;·&nbsp; 🗣️ English · 中文</sub>
 
 ### Selected work
 
